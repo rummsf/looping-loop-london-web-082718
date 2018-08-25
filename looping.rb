@@ -1,5 +1,3 @@
-def looping
-	#your code here
+loop do
+  puts "hi"
 end
-
-#call your method here
